@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094433441",
+    "project_id": "authenticate-eefe2",
+    "storage_bucket": "authenticate-eefe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094433441:android:a6842b1e8294dee08b0ee0",
+        "android_client_info": {
+          "package_name": "com.ghanshyam.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaL41N95ccTrdEFOdWxTtclLvk8-2Zzhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
